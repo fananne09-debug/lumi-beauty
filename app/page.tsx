@@ -1,4 +1,5 @@
-export default function KBeautyWholesaleWebsite() {
+'use client'
+  export default function KBeautyWholesaleWebsite() {
   const products = [
     {
       name: 'Velvet Lip Tint',
